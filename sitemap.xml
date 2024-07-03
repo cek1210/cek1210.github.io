@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://oorange.store/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oorange.store/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -38,25 +47,7 @@
   </url>
   
   <url>
-    <loc>https://oorange.store/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oorange.store/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oorange.store/box/nav/index.html</loc>
+    <loc>https://oorange.store/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,33 +65,6 @@
   </url>
   
   <url>
-    <loc>https://oorange.store/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oorange.store/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oorange.store/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://oorange.store/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -110,7 +74,43 @@
   </url>
   
   <url>
-    <loc>https://oorange.store/personal/bb/index.html</loc>
+    <loc>https://oorange.store/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oorange.store/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oorange.store/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oorange.store/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oorange.store/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
